@@ -1,6 +1,6 @@
 ---
-title: Make The DropDwonList Required
-page_title: Make The DropDwonList Required | Kendo UI DropDownList
+title: Make The DropDownList Required
+page_title: Make The DropDownList Required | Kendo UI DropDownList
 description: "Learn how to make the selection in Kendo UI DropDownList widget required."
 previous_url: /controls/editors/dropdownlist/how-to/make-dropdownlist-required
 slug: howto_make_dropdownlist_required
